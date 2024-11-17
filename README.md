@@ -16,4 +16,6 @@ Information about the features:
 8. Duration: Flight duration in hours (ranges from 2 to 4 hours).
 9. Days Left: Number of days left before the departure date.
 
+The project is deployed at [Hugging Face Spaces.](https://huggingface.co/spaces/semaljohari/flight-fare-prediction)
+
 ![image](https://github.com/user-attachments/assets/d70864ff-567c-4669-af2b-0bf701dcfb53)
