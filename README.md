@@ -18,6 +18,6 @@ Information about the features:
 
 The project is deployed at [Hugging Face Spaces.](https://huggingface.co/spaces/semaljohari/flight-fare-prediction)
 
-# Preview of the App
+## Preview of the App
 
 ![image](https://github.com/user-attachments/assets/d70864ff-567c-4669-af2b-0bf701dcfb53)
